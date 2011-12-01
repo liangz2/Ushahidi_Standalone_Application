@@ -1,6 +1,6 @@
 The Ushahidi Standalone Application is written in a purpose of the project for my CMPT395 course at Grant MacEwan University
 
-It basically mimics the View and Post incidents features that you will find on the any Ushahidi websites.
+It basically mimics the View and Post incidents features that you will find on any Ushahidi websites.
 
 The entire goal of this program is to fasten the process of loading and posting incidents by not opening the web browser and loading off the pages.
 
